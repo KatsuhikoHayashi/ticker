@@ -2,7 +2,7 @@
 //  tickerTests.swift
 //  tickerTests
 //
-//  Created by 林克彦 on 2014/10/20.
+//  Created by Hayashidesu on 2014/10/20.
 //  Copyright (c) 2014年 Hayashidesu. All rights reserved.
 //
 
